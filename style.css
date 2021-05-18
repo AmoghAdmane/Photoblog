@@ -1,0 +1,28 @@
+img {
+    width: 200px;
+height: 200px;
+}
+
+body {
+
+    text-align: center;
+background-color: aquamarine; 
+}
+
+div {
+    margin-top: 15px;
+}
+
+.maindiv {
+    display: flex;
+    justify-content: center;
+}
+
+.subdiv {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+#photo{
+    font-size: 40px;
+}
